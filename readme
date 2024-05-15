@@ -1,0 +1,47 @@
+FizzBuzz Web Application
+Description
+This FizzBuzz Web Application is a simple yet interactive project designed as part of the AVC Student Developer position interview process. It implements the classic programming challenge, FizzBuzz, enhanced with user interaction and score tracking. Users can log in, interact with the FizzBuzz game, and their scores are updated and stored via a backend API.
+
+Features
+User Authentication: Allows users to log in to the application.
+Dynamic Score Calculation: Users press a button to play FizzBuzz, and the application calculates and displays the results in real-time.
+Persistent Score Tracking: User scores are stored and retrieved from a backend server, allowing score continuity across different sessions.
+Installation
+Prerequisites
+A modern web browser like Chrome, Firefox, or Safari.
+Internet access for backend communication.
+Local Setup
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/fizzbuzz-web-app.git
+cd fizzbuzz-web-app
+Open the project:
+
+Open the entire folder in a code editor like Visual Studio Code.
+Navigate to the index.html file and open it in a web browser to start using the application.
+Usage
+Log In:
+
+Start by entering your username in the login screen and click the "Login" button to authenticate.
+Playing FizzBuzz:
+
+Click the "Click Me!" button to play. The application will display "Fizz", "Buzz", "FizzBuzz", or the current number based on the classic FizzBuzz rules.
+Each click updates your score, which is displayed on the screen and simultaneously updated on the server.
+Viewing Scores:
+
+Your current and previous scores are automatically fetched and displayed from the server based on your username.
+Contributing
+Interested in contributing? We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+
+Reporting a bug
+Discussing the current state of the code
+Submitting a fix
+Proposing new features
+
+Becoming a maintainer
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
+
+Contact
+For any queries or further assistance, please contact chetan sai ponnam
